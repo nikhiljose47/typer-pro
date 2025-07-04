@@ -7,9 +7,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 Live on June 13, 2022.
 
 ## Authors
-
-- [@Karthik-Vijay](https://www.github.com/Karthik-Vijay)
 - [@NikhilJose47](https://www.github.com/nikhiljose47)
+- [@Karthik-Vijay](https://www.github.com/Karthik-Vijay)
 
 
 ## Development server
