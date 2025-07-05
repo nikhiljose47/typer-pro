@@ -9,7 +9,7 @@ Live on June 13, 2022.
 ## Authors
 - [@NikhilJose47](https://www.github.com/nikhiljose47)
 - [@Karthik-Vijay](https://www.github.com/Karthik-Vijay)
-
+- [@ArjunK017](https://www.github.com/arjunk017)
 
 ## Development server
 
